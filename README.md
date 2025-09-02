@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 ## 🇧🇷 Sobre mim
 - 🎓 Apaixonado por tecnologias digitais, desenvolvimento de software e ciências biológicas.  
 - 🌱 Atualmente estou aprendendo **JavaScript**, **CSS** e **HTML**.
-- 
+
 ## 🇺🇸 About Me
 - 🎓 Passionate about digital technologies, software development, and biological sciences.  
 - 🌱 I’m currently learning **JavaScript**, **CSS** and **HTML**.
 
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBio&layout=compact&theme=radical)
+
+## 📈 Atividade recente
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenBio&theme=tokyonight)
