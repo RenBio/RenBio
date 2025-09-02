@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🎓 Passionate about digital technologies, software development, and biological sciences.  
 - 🌱 I’m currently learning **JavaScript** and **HTML**.
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ren_Bio&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight)
