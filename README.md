@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ## 📈 Recent Actiity
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RenBio&theme=tokyonight)]
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RenBio&theme=tokyonight)
