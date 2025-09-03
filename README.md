@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=tokyonight)
 
+## 📈 Recent Actiity
 
-
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RenBio&theme=tokyonight)]
