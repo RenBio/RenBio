@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenBio&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RenBio&theme=tokyonight" />
 </p>
 
 
-## 📈 Most used Languages
+## Most used Languages
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=tokyonight" />
