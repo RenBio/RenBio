@@ -24,16 +24,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RenBio&theme=github-dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=radical)
 
 
-## Most used Languages
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=tokyonight" />
-</p>
 
 
