@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBio&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=radical)
 
 ## 📈 Atividade recente
 ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenBio&theme=tokyonight)
