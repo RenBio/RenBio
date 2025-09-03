@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **JavaScript**, **CSS** and **HTML**.
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RenBio&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## 📈 Atividade recente
