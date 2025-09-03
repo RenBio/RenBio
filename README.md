@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![GitHub Stats]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenBio&layout=compact&theme=radical)
 
 ## 📈 Atividade recente
 ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenBio&theme=tokyonight)
