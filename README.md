@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 📈 Recent Actiity
+## 📈 Recent Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=RenBio&theme=tokyonight" />
