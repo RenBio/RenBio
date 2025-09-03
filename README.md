@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 ## 📈 Recent Actiity
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RenBio&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenBio&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true" />
+</p>
+
