@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ## 📈 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=RenBio&theme=tokyonight" />
+  <img src="https://github.com/RenBio/RenBio/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
